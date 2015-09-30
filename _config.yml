@@ -1,0 +1,9 @@
+# Site settings
+title: Pimmie's Tover Crème
+email: pimmieschoorl+creme@gmail.com
+description: Propolis Crème voor handen, gezicht en lijf.
+url: "http://tover-creme.nl" # the base hostname & protocol for your site
+permalink: pretty
+
+# Build settings
+markdown: kramdown
