@@ -1,3 +1,7 @@
+---
+layout: page
+title: contact opnemen
+---
 <!-- Contact Section -->
 <section id="contact">
     <div class="container">

@@ -1,3 +1,7 @@
+---
+layout: page
+title: bestellen
+---
 <!-- Order Section -->
 <section id="order">
     <div class="container">

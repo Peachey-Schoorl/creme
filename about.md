@@ -1,3 +1,7 @@
+---
+layout: page
+title: informatie
+---
 <!-- About Section -->
 <section class="success" id="about">
     <div class="container">
