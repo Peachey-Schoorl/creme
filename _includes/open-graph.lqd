@@ -1,6 +1,6 @@
 <!-- Metadata for The Open Graph protocol http://ogp.me/#metadata -->
     <meta property="og:description" content="{% include description.lqd %}" />
-    <meta property="og:image" content="{% if page.image %}{{ page.image }}{% elsif site.image %}{{ site.image }}{% else %}{% endif %}"/>
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.image %}{{ page.image }}{% elsif site.image %}{{ site.image }}{% else %}{% endif %}"/>
     <meta property="og:locale" content="{% include title.lqd %}" />
     <meta property="og:title" content="{% include title.lqd %}" />
     <meta property="og:type" content="article" />
