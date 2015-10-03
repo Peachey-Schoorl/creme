@@ -2,7 +2,10 @@
 title: Pimmie's Tover Crème
 email: pimmieschoorl+creme@gmail.com
 description: Propolis Crème voor handen, gezicht en lijf.
+image: /img/visitekaartje-voorkant.jpg  # For facebook/twitter/pinterest
 url: "http://tover-creme.nl" # the base hostname & protocol for your site
+language: nl_NL
+
 permalink: pretty
 
 # Build settings

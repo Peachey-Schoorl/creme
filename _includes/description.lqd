@@ -1,0 +1,1 @@
+{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{% else %}{% endif %}

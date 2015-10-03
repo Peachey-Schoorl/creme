@@ -1,0 +1,1 @@
+{% if page.slug %}{{ page.slug | slugify}}{% elsif page.title %}{{ page.title | slugify }}{% elsif site.title %}{{ site.title | slugify }}{% else %}homepage{% endif %}
