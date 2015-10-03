@@ -2,12 +2,8 @@
 layout: default
 slug: tover-creme
 ---
-{% comment %}
-{% include portfolio.html %}
-{% endcomment %}
+{% include_relative order.md %}
 
-{% include order.html %}
+{% include_relative about.md %}
 
-{% include about.html %}
-
-{% include contact.html %}
+{% include_relative contact.md %}
