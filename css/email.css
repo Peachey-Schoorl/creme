@@ -1,0 +1,22 @@
+.email {
+    background-color: #E6B123;
+    border: 1px solid #E6B123;
+    border-radius: 0.5rem;
+    color: #FFF;
+    padding: 0.25rem 0.5rem;
+    text-decoration: none;
+}
+
+.email:hover, .email:focus, .email:active, .email.active {
+    background-color: #FFF;
+    color: #E6B123;
+    text-decoration: none;
+}
+
+.email .glyphicon-envelope {
+    background-color: #E6B123;
+    border: 1px solid;
+    border-radius: 0.25em;
+    color: #FFF;
+    padding: 0.1rem 0.2rem;
+}

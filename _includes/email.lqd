@@ -1,0 +1,5 @@
+
+    <a class="email" href="mailto:{{ include.email }}">
+        <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+        <span>{{ include.email }}</span>
+    </a>
