@@ -3,7 +3,7 @@ layout: page
 title: contact opnemen
 ---
 <!-- Contact Section -->
-<section id="contact">
+<section id="contact" class="success">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
