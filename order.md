@@ -67,11 +67,13 @@ title: bestellen
                     Betaling dient te geschieden voordat verzending plaatsvind.
                 </p>
                 <p><small><small>
-                    Verzendkosten zijn volgens
+                    Verzendkosten zijn €7,95
+                    (Standaard Pakket kosten inclusief Track & Trace €6,95
+                    volgens
                     <a href="http://www.postnl.nl/versturen/pakket-versturen/tarieven/">
                         de tarieven van PostNL
                     </a>
-                    plus €1,- voor het verpakkingsmateriaal
+                    plus €1,- voor het verpakkingsmateriaal)
                 </small></small></p>
             </div>
         </div>
