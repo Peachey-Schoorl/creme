@@ -27,20 +27,50 @@ title: bestellen
                     </thead>
                     -->
                     <tbody>
-                        <tr>
-                            <td class="packaging">Klein Glazen Potje Crème</td>
+                        <tr typeof="schema:Product">
+                            <td class="packaging">
+                                <span rel="schema:brand" typeof="schema:Thing" property="schema:name" content="Tover Crème"></span>
+                                <span property="schema:name">Klein Glazen Potje Crème</span>
+                                <span property="schema:sku" content="Cre/Po-40SmGl"></span>
+                                <span property="schema:mpn" content="Cre/Po-40SmGl"></span>
+                            </td>
                             <td class="volume">(40ml)</td>
-                            <td class="price">€5,- per stuk</td>
+                            <td class="price" rel="schema:offers" typeof="schema:Offer">
+                                <span property="schema:priceCurrency" content="EURO">€</span>
+                                <span property="schema:price" content="5.00">5,-</span>
+                                per stuk
+                                <span property="schema:availability" content="https://schema.org/InStock"></span>
+                            </td>
                         </tr>
-                        <tr>
-                            <td class="packaging">Glazen Potje Crème</td>
+                        <tr typeof="schema:Product">
+                            <td class="packaging">
+                                <span rel="schema:brand" typeof="schema:Thing" property="schema:name" content="Tover Crème"></span>
+                                <span property="schema:name">Glazen Potje Crème</span>
+                                <span property="schema:sku" content="Cre/Po-100MeGl"></span>
+                                <span property="schema:mpn" content="Cre/Po-100MeGl"></span>
+                            </td>
                             <td class="volume">(100ml)</td>
-                            <td class="price">€10,- per stuk</td>
+                            <td class="price" rel="schema:offers" typeof="schema:Offer">
+                                <span property="schema:priceCurrency" content="EURO">€</span>
+                                <span property="schema:price" content="10.00">10,-</span>
+                                per stuk
+                                <span property="schema:availability" content="https://schema.org/InStock"></span>
+                            </td>
                         </tr>
-                        <tr>
-                            <td class="packaging">Grote Pot Crème</td>
+                        <tr typeof="schema:Product">
+                            <td class="packaging">
+                                <span rel="schema:brand" typeof="schema:Thing" property="schema:name" content="Tover Crème"></span>
+                                <span property="schema:name">Grote Pot Crème</span>
+                                <span property="schema:sku" content="Cre/Po-500LaPl"></span>
+                                <span property="schema:mpn" content="Cre/Po-500LaPl"></span>
+                            </td>
                             <td class="volume">(500ml)</td>
-                            <td class="price">€50,- per stuk</td>
+                            <td class="price" rel="schema:offers" typeof="schema:Offer">
+                                <span property="schema:priceCurrency" content="EURO">€</span>
+                                <span property="schema:price" content="50.00">50,-</span>
+                                per stuk
+                                <span property="schema:availability" content="https://schema.org/InStock"></span>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
