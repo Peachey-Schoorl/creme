@@ -87,7 +87,7 @@ title: bestellen
                     dan staat dit ook in de email.
                 </p>
                 <p class="text-center"><strong>
-                    De crème kan in persoon overhandigd of per post verstuurd worden.
+                    De crème kan in <a href="https://www.google.com/maps/place/Oldenzaal/">Oldenzaal</a> in persoon overhandigd of per post verstuurd worden.
                 </strong></p>
                 <p>
                     Indien de bestelling in persoon wordt afgenomen kan er ter plekke betaald worden.
@@ -95,6 +95,9 @@ title: bestellen
                 <p>
                     Indien de bestelling per post verstuurd dient te worden, graag het adres in de email vermelden.
                     Betaling dient te geschieden voordat verzending plaatsvind.
+                </p>
+                <p>
+                    Indien gewenst kan er ook via een <a href="https://www.tikkie.me/">Tikkie</a> betaald worden.
                 </p>
                 <p><small><small>
                     Verzendkosten zijn €7,95
