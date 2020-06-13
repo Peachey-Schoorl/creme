@@ -57,21 +57,6 @@ title: bestellen
                                 <span property="schema:availability" content="https://schema.org/InStock"></span>
                             </td>
                         </tr>
-                        <tr typeof="schema:Product">
-                            <td class="packaging">
-                                <span rel="schema:brand" typeof="schema:Thing" property="schema:name" content="Tover Crème"></span>
-                                <span property="schema:name">Grote Pot Crème</span>
-                                <span property="schema:sku" content="Cre/Po-500LaPl"></span>
-                                <span property="schema:mpn" content="Cre/Po-500LaPl"></span>
-                            </td>
-                            <td class="volume">(500ml)</td>
-                            <td class="price" rel="schema:offers" typeof="schema:Offer">
-                                <span property="schema:priceCurrency" content="EURO">€</span>
-                                <span property="schema:price" content="50.00">50,-</span>
-                                per stuk
-                                <span property="schema:availability" content="https://schema.org/InStock"></span>
-                            </td>
-                        </tr>
                     </tbody>
                 </table>
                 <p class="text-center"><strong>
