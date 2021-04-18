@@ -85,14 +85,15 @@ title: bestellen
                     Indien gewenst kan er ook via een <a href="https://www.tikkie.me/">Tikkie</a> betaald worden.
                 </p>
                 <p><small><small>
-                    Verzendkosten zijn €7,95
-                    (Standaard Pakket kosten inclusief Track & Trace €6,95
+                    Verzendkosten zijn €6,75                    
+                    (Pakket versturen naar een huisadres €5,75
                     volgens
-                    <a href="http://www.postnl.nl/versturen/pakket-versturen/tarieven/">
-                        de tarieven van PostNL
+                    <a href="https://www.dhlparcel.nl/nl/consument/support/verzenden/tarieven">
+                        de tarieven van DHL
                     </a>
                     plus €1,- voor het verpakkingsmateriaal)
                 </small></small></p>
+                <p>Bestellingen vanaf €50,- worden gratis verzonden.</p>
             </div>
         </div>
     </div>
