@@ -37,7 +37,7 @@ title: bestellen
                             <td class="volume">(40ml)</td>
                             <td class="price" rel="schema:offers" typeof="schema:Offer">
                                 <span property="schema:priceCurrency" content="EURO">€</span>
-                                <span property="schema:price" content="5.00">5,-</span>
+                                <span property="schema:price" content="6.50">6,50</span>
                                 per stuk
                                 <span property="schema:availability" content="https://schema.org/InStock"></span>
                             </td>
@@ -52,7 +52,7 @@ title: bestellen
                             <td class="volume">(100ml)</td>
                             <td class="price" rel="schema:offers" typeof="schema:Offer">
                                 <span property="schema:priceCurrency" content="EURO">€</span>
-                                <span property="schema:price" content="10.00">10,-</span>
+                                <span property="schema:price" content="12.50">12,50</span>
                                 per stuk
                                 <span property="schema:availability" content="https://schema.org/InStock"></span>
                             </td>
