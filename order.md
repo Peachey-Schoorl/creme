@@ -31,10 +31,10 @@ title: bestellen
                             <td class="packaging">
                                 <span rel="schema:brand" typeof="schema:Thing" property="schema:name" content="Tover Crème"></span>
                                 <span property="schema:name">Klein Glazen Potje Crème</span>
-                                <span property="schema:sku" content="Cre/Po-40SmGl"></span>
-                                <span property="schema:mpn" content="Cre/Po-40SmGl"></span>
+                                <span property="schema:sku" content="Cre/Po-45SmGl"></span>
+                                <span property="schema:mpn" content="Cre/Po-45SmGl"></span>
                             </td>
-                            <td class="volume">(40ml)</td>
+                            <td class="volume">(45ml)</td>
                             <td class="price" rel="schema:offers" typeof="schema:Offer">
                                 <span property="schema:priceCurrency" content="EURO">€</span>
                                 <span property="schema:price" content="6.50">6,50</span>
