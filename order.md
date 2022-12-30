@@ -29,14 +29,14 @@ title: bestellen
                     <tbody>
                         <tr typeof="schema:Product">
                             <td class="packaging">
-                                <span rel="schema:brand" typeof="schema:Thing" property="schema:name" content="Tover Crème"></span>
+                                <span rel="schema:brand" typeof="schema:Brand" property="schema:name" content="Tover Crème"></span>
                                 <span property="schema:name">Klein Glazen Potje Crème</span>
                                 <span property="schema:sku" content="Cre/Po-45SmGl"></span>
                                 <span property="schema:mpn" content="Cre/Po-45SmGl"></span>
                             </td>
                             <td class="volume">(45ml)</td>
                             <td class="price" rel="schema:offers" typeof="schema:Offer">
-                                <span property="schema:priceCurrency" content="EURO">€</span>
+                                <span property="schema:priceCurrency" content="EUR">€</span>
                                 <span property="schema:price" content="6.50">6,50</span>
                                 per stuk
                                 <span property="schema:availability" content="https://schema.org/InStock"></span>
@@ -44,14 +44,14 @@ title: bestellen
                         </tr>
                         <tr typeof="schema:Product">
                             <td class="packaging">
-                                <span rel="schema:brand" typeof="schema:Thing" property="schema:name" content="Tover Crème"></span>
+                                <span rel="schema:brand" typeof="schema:Brand" property="schema:name" content="Tover Crème"></span>
                                 <span property="schema:name">Glazen Potje Crème</span>
                                 <span property="schema:sku" content="Cre/Po-100MeGl"></span>
                                 <span property="schema:mpn" content="Cre/Po-100MeGl"></span>
                             </td>
                             <td class="volume">(100ml)</td>
                             <td class="price" rel="schema:offers" typeof="schema:Offer">
-                                <span property="schema:priceCurrency" content="EURO">€</span>
+                                <span property="schema:priceCurrency" content="EUR">€</span>
                                 <span property="schema:price" content="12.50">12,50</span>
                                 per stuk
                                 <span property="schema:availability" content="https://schema.org/InStock"></span>
