@@ -85,12 +85,9 @@ title: bestellen
                     Indien gewenst kan er ook via een <a href="https://www.tikkie.me/">Tikkie</a> betaald worden.
                 </p>
                 <p><small><small>
-                    Verzendkosten zijn €8,65
-                    (Standaard Pakket kosten inclusief Track & Trace €7,65
-                    volgens
-                    <a href="https://www.postnl.nl/tarieven/Pakket/NL/351g-2kg">
-                        de tarieven van PostNL
-                    </a>
+                    Verzendkosten zijn €9,25
+                    (Standaard Pakket kosten inclusief Track & Trace €8,25
+                    volgens <a href="https://www.postnl.nl/tarieven/">de tarieven van PostNL</a>
                     plus €1,- voor het verpakkingsmateriaal)
                 </small></small></p>
                 <p>Bestellingen vanaf €50,- worden gratis verzonden.</p>
